@@ -1,0 +1,12 @@
+C:\Users\redas\Documents\NetBeansProjects\LibraryManager\src\main\java\com\mycompany\librarymanager\dao\BookDAO.java
+C:\Users\redas\Documents\NetBeansProjects\LibraryManager\src\main\java\com\mycompany\librarymanager\JakartaRestConfiguration.java
+C:\Users\redas\Documents\NetBeansProjects\LibraryManager\src\main\java\com\mycompany\librarymanager\model\Book.java
+C:\Users\redas\Documents\NetBeansProjects\LibraryManager\src\main\java\com\mycompany\librarymanager\resources\JakartaEE11Resource.java
+C:\Users\redas\Documents\NetBeansProjects\LibraryManager\src\main\java\com\mycompany\librarymanager\servlet\AddBookServlet.java
+C:\Users\redas\Documents\NetBeansProjects\LibraryManager\src\main\java\com\mycompany\librarymanager\servlet\BorrowBookServlet.java
+C:\Users\redas\Documents\NetBeansProjects\LibraryManager\src\main\java\com\mycompany\librarymanager\servlet\BorrowedBooksServlet.java
+C:\Users\redas\Documents\NetBeansProjects\LibraryManager\src\main\java\com\mycompany\librarymanager\servlet\DeleteBookServlet.java
+C:\Users\redas\Documents\NetBeansProjects\LibraryManager\src\main\java\com\mycompany\librarymanager\servlet\ReturnBookServlet.java
+C:\Users\redas\Documents\NetBeansProjects\LibraryManager\src\main\java\com\mycompany\librarymanager\servlet\SearchBooksServlet.java
+C:\Users\redas\Documents\NetBeansProjects\LibraryManager\src\main\java\com\mycompany\librarymanager\servlet\ViewBooksServlet.java
+C:\Users\redas\Documents\NetBeansProjects\LibraryManager\src\main\java\com\mycompany\librarymanager\util\DBUtil.java
